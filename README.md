@@ -6,6 +6,16 @@ I am an urban design postgraduate at City University of Hong Kong, with a civil 
 
 [Explore the portfolio](portfolio/README.md) · [Quant trading engineering project](https://github.com/Lucyprivate/quant-trading-system)
 
+## Latest study — Hong Kong Urban Site Study
+
+[![Tin Shui Wai rail and road relationships](https://raw.githubusercontent.com/Lucyprivate/hong-kong-urban-site-study/3d6cd0fe3c78a55c212bfacfa8a376bf345516e8/images/tin-shui-wai-interchange.png)](https://github.com/Lucyprivate/hong-kong-urban-site-study)
+
+**[Explore the independent project repository](https://github.com/Lucyprivate/hong-kong-urban-site-study)** — a 10 × 10 km study connecting historical urban-tissue analysis, building-height evidence, terrain and road/rail grade separation. The public snapshot includes native Rhino views, methods, source credits and validation summaries.
+
+Developed from shared Group 4 coursework materials with Codex assistance. Transport elevations and supports include explicit estimates; unresolved height relationships remain documented. **Work in progress · 24 September 2026.**
+
+[中文说明](https://github.com/Lucyprivate/hong-kong-urban-site-study/blob/main/README.zh-CN.md) · [Methods and validation](https://github.com/Lucyprivate/hong-kong-urban-site-study/blob/main/docs/validation.md)
+
 ## Selected work
 
 | Evidence and design review | Architectural and urban visualization |

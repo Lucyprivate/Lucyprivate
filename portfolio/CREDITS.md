@@ -34,6 +34,12 @@ Local proportions, site arrangement and repeated sculpture are interpretive. The
 
 The local source was retrieved in September 2026; photograph dates vary. The film uses an original synthetic soundtrack prepared for the project.
 
+## Hong Kong Urban Site Study
+
+The linked **[Hong Kong Urban Site Study](https://github.com/Lucyprivate/hong-kong-urban-site-study)** develops supplied Group 4 coursework materials into an ongoing GIS and Rhino site study. Ewan provides the brief, resources and revision direction; Codex assists with data processing, scripts, model integration, checks and documentation. Shared coursework inputs are not claimed as Ewan's sole original work.
+
+The profile's Tin Shui Wai image is a native Rhino capture from the 24 September 2026 snapshot, linked from the independent repository. Its transport elevations, supports and local terrain adjustments include estimates. Source mapping and data are credited to the Lands Department and Civil Engineering and Development Department, HKSAR Government, and other providers in the project's [source register](https://github.com/Lucyprivate/hong-kong-urban-site-study/blob/main/SOURCES.md). [Validation notes](https://github.com/Lucyprivate/hong-kong-urban-site-study/blob/main/docs/validation.md) distinguish recorded geometric checks from survey accuracy and unresolved height relationships. Models and raw source data remain local.
+
 ## Working credits
 
 Ewan supplied the application brief, domain resources and original coursework contribution described above. Codex performed the new prototype implementation, automated verification and rendering with user direction. Evidence summaries refer to retained local records. Publishing these case studies does not imply independent manual authorship of the generated software or a regulatory certification.
