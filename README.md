@@ -55,16 +55,23 @@ These research prototypes do not certify construction or regulatory compliance.
 
 ## Other engineering work
 
-The [Quant Trading System](https://github.com/Lucyprivate/quant-trading-system) grew from a manual limit-order workflow into a modular Python project.
-It combines strategy modules, backtesting, asynchronous execution, monitoring, and risk controls.
-The public case study documents architecture and development methods.
-It omits account data and proprietary strategy parameters.
+### Home Network Infra
 
-[Read the engineering introduction and stack](portfolio/quant-engineering.md).
+[Home Network Infra](https://github.com/Lucyprivate/home-network-infra) is a segmented home-network infrastructure study covering Proxmox VE, OpenWrt, Linux services, and Headscale remote access.
+It separates the roles of management, household traffic, and direct-cable recovery, with device-specific permissions for Windows remote desktop.
 
-[Home Network Infra](https://github.com/Lucyprivate/home-network-infra) documents a segmented home network with Proxmox, OpenWrt, Headscale, and self-hosted services.
-It includes recovery procedures and device-specific Windows access controls.
-The public release contains anonymized examples and offline checks.
+The public release includes Python configuration rendering and validation, a publication scanner, unit tests, and offline checks.
+Its operations notes cover dependencies and recovery procedures that check resource ownership.
+Examples are anonymized; credentials, real deployment addresses, and running-system records remain private.
+The checks run offline and cover the public examples. Deployment still requires validation of the target hardware, network, and services.
+
+### Quant Trading System
+
+[Quant Trading System](https://github.com/Lucyprivate/quant-trading-system) is a modular Python case study for IBKR paper trading and BTC mock trading.
+It covers backtesting, asynchronous execution, monitoring, and risk controls.
+The public repository includes a safe demo and architecture notes; account data and proprietary strategy parameters remain private.
+
+[Engineering introduction and stack](portfolio/quant-engineering.md).
 
 ## Background
 
