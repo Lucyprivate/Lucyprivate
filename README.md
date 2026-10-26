@@ -5,7 +5,7 @@
 I am an urban design postgraduate at City University of Hong Kong. My civil engineering background comes from Chang'an University.
 I use design and spatial analysis to define practical questions. My projects combine models, software prototypes, and source-based reviews.
 
-[Explore the portfolio](portfolio/README.md) · [Quant trading engineering project](https://github.com/Lucyprivate/quant-trading-system)
+[Explore the portfolio](portfolio/README.md) · [Home network infrastructure project](https://github.com/Lucyprivate/home-network-infra)
 
 <a id="latest-study--hong-kong-urban-site-study"></a>
 
